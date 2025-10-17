@@ -16,4 +16,6 @@ ul li {
 img {
     border: none;
     border-radius: 10px;
+    width: 1000px;
+    height: 450px;
 }
