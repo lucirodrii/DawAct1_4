@@ -10,7 +10,7 @@
 ## **URL del repositorio:** [enlace](https://github.com/lucirodrii/DawAct1_4.git)
 
 ### Así se ve el historial del repositorio:
-![Imagen](img\foto.jpeg)
+![Imagen](img/foto.jpeg)
 
 ### El contenido del archivo index.html es el siguiente:
 
